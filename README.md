@@ -118,8 +118,8 @@
 <h2>Streak Stats</h2>
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=haxxan21&theme=dracula" alt="shazzi7" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=shazzi7&theme=dracula" alt="shazzi7" />
 </p>
 <!--
-**haxxan21/haxxan21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
+**shazzi7/shazzi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
 -->
