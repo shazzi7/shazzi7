@@ -6,20 +6,13 @@
 <h3 align="center">Building quality websites and applications. </h3>
 
 <p align="center"> 💼 Works at <a href="#">Home</a> </p> 
-<p align="center"> ⚡ Fun fact: CyberSecurity Enthusiast 🔥 </p>
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=haxxan21&theme=radical&langs_count=6&layout=compact"><img alt="haxxan21 Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haxxan21&theme=radical&langs_count=6&layout=compact"></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=shazzi7&theme=radical&langs_count=6&layout=compact"><img alt="shazzi7 Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazzi7&theme=radical&langs_count=6&layout=compact"></a>
  </p>
  
- <h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=haxxan21&color=green" alt="shazzi7" /> </h2>
+ <h2>🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=shazzi7&color=green" alt="shazzi7" /> </h2>
  
- <p align="center">
-   <a href="https://stackoverflow.com/users/9658195/hassan-malik">
-    <img align="center" src="https://github.com/keikomori/icons-badges/blob/master/badges/Stackoverflow/stackoverflow.svg" alt="stackoverflow" />
-  </a>
-</p>
-
 <h2> Backend </h2>
 
 <table class="mx-0">
