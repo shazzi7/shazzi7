@@ -1,100 +1,72 @@
-<h1 align="center">
-  Hello, I'm Imtiaz Hussain 👋
-  <br>
-  <small>Full Stack Software Engineer</small>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Hello GIF">
-</h1>
-
-<h3 align="center">Crafting Robust and Scalable Web Solutions</h3>
-
 <p align="center">
-  💼 Currently working at <a href="#">Home</a> | 📫 Reach me at <a href="webimtiaz7@gmail.com">webimtiaz7@gmail.com</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Imtiaz+Hussain;Your+Next+Full+Stack+Developer;Turning+Ideas+into+Digital+Reality;Crafting+Scalable+Web+Solutions;" alt="Typing SVG" />
 </p>
 
-<h2 align="center">🚀 Technologies & Tools</h2>
+<p align="center">
+  Innovative Solutions, Exceptional Results
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shazzi7&style=flat-square&color=blue" alt="Profile views">
+  <a href="https://www.linkedin.com/in/shazzi7"><img src="https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shazzi7/" alt="LinkedIn"></a>
+  <a href="mailto:webimtiaz7@gmail.com"><img src="https://img.shields.io/badge/-Contact-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:webimtiaz7@gmail.com" alt="Email"></a>
+  <a href="https://github.com/shazzi7?tab=followers"><img src="https://img.shields.io/github/followers/shazzi7?label=Follow&style=social" alt="GitHub followers"></a>
+</p>
+
+<h2 align="center">🚀 About Me</h2>
+
+<p align="center">
+  Dedicated Full Stack Software Engineer with a passion for crafting robust and scalable web solutions. I specialize in creating efficient, user-friendly applications that solve real-world problems, leveraging my expertise in both frontend and backend technologies.
+</p>
+
+<h2 align="center">🛠️ Technologies & Tools</h2>
 
 <h3 align="center">Backend Technologies</h3>
-<table align="center">
-  <tr>
-    <th>Laravel</th>
-    <th>PHP</th>
-    <th>Node.js</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" height="60" alt="Laravel"></td>
-    <td align="center"><img src="https://www.php.net/images/logos/php-logo.svg" height="40" alt="PHP"></td>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/nodejs.png" height="60" alt="Node.js"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+</p>
 
 <h3 align="center">Database Technologies</h3>
-<table align="center">
-  <tr>
-    <th>MySQL</th>
-    <th>SQL/T-SQL</th>
-    <th>SQLite</th>
-    <th>MongoDB</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/></td>
-    <td align="center"><img src="https://img.icons8.com/nolan/64/sql.png" alt="SQL/T-SQL"/></td>
-    <td align="center"><img src="https://img.icons8.com/doodle/48/000000/feather.png" alt="SQLite"/></td>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+</p>
 
 <h3 align="center">Frontend Technologies</h3>
-<table align="center">
-  <tr>
-    <th>HTML</th>
-    <th>CSS</th>
-    <th>Bootstrap</th>
-    <th>Tailwind</th>
-    <th>React</th>
-    <th>Vue.js</th>
-    <th>Angular</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://img.icons8.com/nolan/64/html-5.png" alt="HTML" /></td>
-    <td align="center"><img src="https://img.icons8.com/dusk/64/000000/css3.png" alt="CSS" /></td>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/></td>
-    <td align="center"><img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="Tailwind CSS"/></td>
-    <td align="center"><img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="React"/></td>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js"/></td>
-    <td align="center"><img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" alt="Angular" width="80"/></td>
-  </tr>
-</table>
-
-<h2 align="center">📈 My Skills</h2>
 <p align="center">
-  <img src="https://img.icons8.com/ios/50/000000/php-logo.png" width="40" height="40" alt="PHP">
-  <img src="https://img.icons8.com/dusk/64/000000/javascript.png" width="40" height="40" alt="JavaScript">
-  <img src="https://img.icons8.com/color/48/000000/json.png" width="40" height="40" alt="JSON">
-  <img src="https://img.icons8.com/dusk/64/000000/postman-api.png" width="40" height="40" alt="Postman">
-  <img src="https://github.com/keikomori/icons-badges/blob/master/icons/VSCode/vscode.svg" alt="VSCode" width="40" height="40">
-  <img src="https://github.com/keikomori/icons-badges/blob/master/icons/Windows/windows.svg" alt="Windows" width="40" height="40">
-  <img src="https://img.icons8.com/dusk/64/000000/linux.png" width="40" height="40" alt="Linux">
-  <img src="https://github.com/keikomori/icons-badges/blob/master/icons/Git/git.svg" alt="Git" width="40" height="40">
-  <img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm" width="40" height="40">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=shazzi7&theme=dracula" alt="GitHub Streak Stats" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=shazzi7&theme=react" alt="GitHub Streak Stats" />
 </p>
 
-<h2 align="center">📜 GitHub Profile Summary</h2>
+<h2 align="center">📫 Let's Connect</h2>
+
 <p align="center">
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shazzi7&theme=radical">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shazzi7&theme=radical" alt="Profile Summary">
+  <a href="https://www.linkedin.com/in/shazzi7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/sha_zzi7" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://github.com/shazzi7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
----
-
-<h2 align="center">✨ Let's Connect</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/shazzi7" target="_blank">LinkedIn</a> |
-  <a href="https://twitter.com/sha_zzi7" target="_blank">Twitter</a> |
-  <a href="https://github.com/shazzi7" target="_blank">GitHub</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </p>
