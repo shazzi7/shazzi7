@@ -3,14 +3,18 @@
 </p>
 
 <p align="center">
-  Innovative Solutions, Exceptional Results
+  <strong>Innovative Solutions, Exceptional Results</strong>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shazzi7&style=flat-square&color=blue" alt="Profile views">
-  <a href="https://www.linkedin.com/in/shazzi7"><img src="https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shazzi7/" alt="LinkedIn"></a>
+  💼 Full Stack Developer | 🏡 Working Remotely
+</p>
+
+<p align="center">
   <a href="mailto:webimtiaz7@gmail.com"><img src="https://img.shields.io/badge/-Contact-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:webimtiaz7@gmail.com" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/shazzi7"><img src="https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shazzi7/" alt="LinkedIn"></a>
   <a href="https://github.com/shazzi7?tab=followers"><img src="https://img.shields.io/github/followers/shazzi7?label=Follow&style=social" alt="GitHub followers"></a>
+  <img src="https://komarev.com/ghpvc/?username=shazzi7&style=flat-square&color=blue" alt="Profile views">
 </p>
 
 <h2 align="center">🚀 About Me</h2>
