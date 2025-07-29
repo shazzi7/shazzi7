@@ -49,19 +49,6 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=shazzi7&theme=react" alt="GitHub Streak Stats" />
-</p>
-
-<h2 align="center">📜 GitHub Profile Summary</h2>
-<p align="center">
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shazzi7&theme=react">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shazzi7&theme=react" alt="Profile Summary">
-  </a>
-</p>
-
 <h2 align="center">📫 Let's Connect</h2>
 
 <p align="center">
