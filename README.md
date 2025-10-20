@@ -1,68 +1,82 @@
+<div align="center" style="padding: 20px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=007AFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Imtiaz+Hussain+👋;A+Passionate+Full+Stack+Developer;Specialized+in+Laravel+%26+Vue.js;Building+Scalable+and+Modern+Web+Apps;Turning+Ideas+into+Digital+Reality" alt="Typing SVG" />
+</div>
+
+
+<div align="center">
+  <p>Expert in the Laravel & Vue Ecosystem | Dedicated to Clean, High-Performance Code</p>
+  <p>💼 Full Stack Software Engineer | 📍 Open to Opportunities | 🏡 Remote</p>
+</div>
+
+<div align="center">
+  <a href="mailto:webimtiaz7@gmail.com"><img src="https://img.shields.io/badge/Email_Me-007AFF?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/shazzi7"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-2867B2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/shazzi7"><img src="https://img.shields.io/badge/Explore_My_Code-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</div>
+
+---
+
+## 🚀 Professional Overview
+
+I am a highly driven **Full Stack Software Engineer** specializing in the entire application lifecycle, with a strong focus on the **Laravel/PHP** framework for robust, secure backend development and **Vue.js** for dynamic, intuitive user interfaces. My commitment is to **clean architecture**, **test-driven development (TDD)**, and delivering scalable digital experiences that bring tangible value.
+
+---
+
+## 💻 Core Tech Stack
+
+My expertise centers around the modern, component-based stack, optimized for rapid development and long-term stability.
+
+<details open>
+<summary><strong>Expand Detailed Arsenal</strong></summary>
+
+| Category | Key Technologies |
+| :--- | :--- |
+| **Backend (Primary)** | `Laravel` • `PHP (OOP)` • `RESTful APIs` • `Eloquent ORM` • `PHPUnit` |
+| **Frontend (Primary)** | `Vue.js (Vuex/Pinia)` • `JavaScript (ES6+)` • `Axios` • `Nuxt.js` |
+| **Styling & UI** | `Tailwind CSS` • `Bootstrap` • `Sass/Less` • `HTML5/CSS3` |
+| **Database** | `MySQL` • `PostgreSQL` • `MongoDB` • `SQL` |
+| **Tools & DevOps** | `Git/GitHub` • `Docker` • `VS Code` • `CI/CD Concepts` |
+
+</details>
+
+### Skills Matrix
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Imtiaz+Hussain;Your+Next+Full+Stack+Developer;Turning+Ideas+into+Digital+Reality;Crafting+Scalable+Web+Solutions;" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,vue,mysql,tailwind,bootstrap,git,github,vscode,docker,figma,postman&theme=light" alt="Skills Matrix" />
 </p>
 
-<p align="center">
-  <strong>Innovative Solutions, Exceptional Results</strong>
-</p>
+---
 
-<p align="center">
-  💼 Full Stack Developer | 🏡 Working Remotely
-</p>
+## 📊 Developer Activity Insights
 
-<p align="center">
-  <a href="mailto:webimtiaz7@gmail.com"><img src="https://img.shields.io/badge/-Contact-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:webimtiaz7@gmail.com" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/shazzi7"><img src="https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shazzi7/" alt="LinkedIn"></a>
-</p>
+I believe consistency is key to successful development. These charts showcase my commitment and project focus.
 
-<h2 align="center">🚀 About Me</h2>
+<br>
 
-<p align="center">
-  Dedicated Full Stack Software Engineer with a passion for crafting robust and scalable web solutions. I specialize in creating efficient, user-friendly applications that solve real-world problems, leveraging my expertise in both frontend and backend technologies.
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shazzi7&theme=github-light&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF&border=E0E0E0&ring=007AFF&fire=4FC08D&currStreakLabel=4FC08D" alt="GitHub Streak" width="100%" style="max-width: 450px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+</div>
 
-<h2 align="center">🛠️ Technologies & Tools</h2>
+---
 
-<h3 align="center">Backend Technologies</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-</p>
+## 📬 Let's Collaborate
 
-<h3 align="center">Database Technologies</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-</p>
+I am actively seeking challenging opportunities where my expertise in building robust Laravel backends and dynamic Vue.js frontends can drive project success.
 
-<h3 align="center">Frontend Technologies</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-</p>
-
-<h2 align="center">📫 Let's Connect</h2>
-
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/shazzi7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/sha_zzi7" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="https://github.com/shazzi7" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
-</p>
+<div align="center">
+  <p style="margin-top: 20px;">
+    <code>&lt;/&gt; Developed by Imtiaz Hussain</code>
+  </p>
+</div>
