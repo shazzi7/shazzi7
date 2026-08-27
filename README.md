@@ -47,18 +47,6 @@ My expertise centers around the modern, component-based stack, optimized for rap
 
 ---
 
-## 📊 Developer Activity Insights
-
-I believe consistency is key to successful development. These charts showcase my commitment and project focus.
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shazzi7&theme=github-light&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF&border=E0E0E0&ring=007AFF&fire=4FC08D&currStreakLabel=4FC08D" alt="GitHub Streak" width="100%" style="max-width: 450px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-</div>
-
----
-
 ## 📬 Let's Collaborate
 
 I am actively seeking challenging opportunities where my expertise in building robust Laravel backends and dynamic Vue.js frontends can drive project success.
